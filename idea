@@ -1,0 +1,14 @@
+#create scoreboard
+#create border
+#create player paddle
+#create moving ball
+
+#how to increase scoreboard (when does the scoreboard end)
+
+#how to move paddle for each player (wasd one arrow)
+
+# logic behind the moving ball
+#ball moving
+#ball hitting paddle
+#ball collision with wall
+#detect when paddle misses (ball hits the opposite end of the screen )
